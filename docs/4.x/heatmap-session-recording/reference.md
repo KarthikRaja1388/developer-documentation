@@ -162,7 +162,7 @@ By default, the target page rules you configure will be matched against
 
 Allows you to completely disable the tracking of any Heatmap or Session Recording data. This is useful if you for example 
 manage multiple websites in your Piwik and there are some websites where you do not want to track any such activities. It is recommended
-to call this method as early in your tracking code as possible or during the `matomoHeatmapSessionRecordingAsyncInit` method.
+to call this method as early in your tracking code as possible or during the `matomoHeatmapSessionRecordingAsyncInit` method. [How to disable and enable Heatmap and Session recording?](https://matomo.org/faq/heatmap-session-recording/faq_25413/)
 
 ### `enable()`
 
